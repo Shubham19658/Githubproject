@@ -12,6 +12,10 @@ public class Demo {
 	{
 		System.out.println("method m2");
 	}
+	public void m3()
+	{
+		System.out.println("method m3");
+	}
 	
 	public static void main(String[] args) {
 		
